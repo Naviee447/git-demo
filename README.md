@@ -1,4 +1,4 @@
-# lisy-learning
+# git-demo
 
 个人学习记录仓库。
 
